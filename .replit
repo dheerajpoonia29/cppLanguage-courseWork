@@ -1,2 +1,2 @@
 language = "cpp"
-run = ""
+run = "g++ cppBasic.cpp -o objectFile && ./objectFile"
